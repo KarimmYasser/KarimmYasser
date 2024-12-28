@@ -30,5 +30,7 @@ I'm a passionate **Computer Engineering Student** at Cairo University with a kee
 ## 🏆 GitHub Stats
 ![Karim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarimmYasser&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimmYasser&layout=compact&theme=radical)
+
 ---
 Feel free to check out my repositories and contribute if you're interested! 💻
