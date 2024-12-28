@@ -16,7 +16,6 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Mobile Development with Flutter**
 - 🌱 I’m currently learning **Python**, **Backend Development**, **Databases**
-- 📝 I regularly write articles and share my knowledge on **GitHub** and **LinkedIn**
 - 💬 Ask me about **Flutter**, **Unity**, **C++**, **SQL**, **Game Development**
 - 📫 Feel free to reach me out at **karimmyasserr@gmail.com**
 - 🏠 Don't hesitate to drop me a **👋** on Discord – [KarimmYasser](https://discordapp.com/users/karimmyasser)
