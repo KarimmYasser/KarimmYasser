@@ -79,10 +79,5 @@
   <a href="https://discordapp.com/users/karimmyasser" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
 
-<!--profile visit count-->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=KarimmYasser&icon=3&color=6)](https://visitcount.itsvg.in)
-</div>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
