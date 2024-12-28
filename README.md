@@ -8,7 +8,7 @@ I'm a passionate **Computer Engineering Student** at Cairo University with a kee
 
 ## 🛠️ Tech Stack
 ### Languages
-- **C++**, **Dart**, **Flutter**, **JavaScript**, **SQL**, **Python** (Learning)
+- **C++**, **Dart**, **JavaScript**, **SQL**, **Python** (Learning)
 
 ### Tools & Frameworks
 - **Flutter**
