@@ -1,7 +1,5 @@
 # Hi there, I'm Karim Yasser! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
-
 ## 🚀 About Me
 I'm a passionate **Computer Engineering Student** at Cairo University with a keen interest in:
 
