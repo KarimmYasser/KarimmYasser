@@ -24,7 +24,7 @@ I'm a passionate **Computer Engineering Student** at Cairo University with a kee
 
 ## 📫 Let's Connect
 - **LinkedIn**: [Karim Yasser](https://www.linkedin.com/in/karimmyasserr)
-- **Email**: [karimyasser.dev@gmail.com](mailto:karimmyasserr@gmail.com)
+- **Email**: [karimmyasserr@gmail.com](mailto:karimmyasserr@gmail.com)
 - **GitHub**: [KarimmYasser](https://github.com/KarimmYasser)
 
 ## 🏆 GitHub Stats
