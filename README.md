@@ -8,6 +8,8 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Karim Yasser</h1></summary>
   </ul>
 </div>
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="150">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KarimmYasser.KarimmYasser&left_color=royalblue&right_color=black"  />
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Mobile Development with Flutter**
@@ -17,6 +19,7 @@
 - 🏠 Don't hesitate to drop me a **👋** on Discord – [KarimmYasser](https://discordapp.com/users/karimmyasser)
 
 <!--Intro end-->
+
 
 <!--- snake -->
 <div align="center">
