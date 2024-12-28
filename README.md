@@ -9,10 +9,6 @@
   </ul>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KarimmYasser/KarimmYasser/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 <!--Intro start-->
 - 🔭 I’m currently working on **Mobile Development with Flutter**
 - 🌱 I’m currently learning **Python**, **Backend Development**, **Databases**
@@ -21,6 +17,11 @@
 - 🏠 Don't hesitate to drop me a **👋** on Discord – [KarimmYasser](https://discordapp.com/users/karimmyasser)
 
 <!--Intro end-->
+
+<!--- snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KarimmYasser/KarimmYasser/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -59,7 +60,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,unity,cpp,cs,java,html,css,js,python,postgres,firebase,git,github,vscode,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,unity,cpp,cs,java,html,css,js,react,nodejs,python,postgres,firebase,git,github,vscode,discord&perline=14" />
   </a>
 </p>
 
