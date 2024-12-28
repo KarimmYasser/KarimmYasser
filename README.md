@@ -6,40 +6,27 @@
 I'm a passionate **Computer Engineering Student** at Cairo University with a keen interest in:
 
 - **Mobile Development**: Flutter Enthusiast 📱
-- **Backend Development**: Exploring SQL and Node.js 🛠️
 - **Game Development**: Creating fun projects in Unity 🎮
-- **Databases**: MongoDB, SQL Server, and more 💾
-
-## 🎯 What I'm Working On
-- **Fashion Assistant Project**: A Flutter + Express.js application with 3D avatar integration.
-- **Brick Breaker Pro Game**: Multiplayer x8086 Assembly game with serial communication.
-- **Backend Exploration**: Diving deeper into Node.js and backend frameworks.
 
 ## 🛠️ Tech Stack
 ### Languages
-- **C++**, **Dart**, **JavaScript**, **SQL**, **Python** (Learning)
+- **C++**, **Dart**, **Flutter**, **Assembly**, **JavaScript**, **SQL**, **Python** (Learning)
 
 ### Tools & Frameworks
-- **Flutter**, **Express.js**, **Unity**, **Node.js**
-- **VS Code**, **Microsoft SQL Server Management Studio**, **DOSBox**
+- **Flutter**
+- **VS Code**, **VS Community**
 
 ### Others
 - **Version Control**: Git, GitHub
-- **Databases**: MongoDB, MySQL, SQL Server
-- **Game Engines**: Unity, Assembly Language
-
-## 🌱 Currently Learning
-- Advanced **Python** concepts
-- **Backend Development**
-- Exploring **3D Modeling** for game avatars
+- **Side Interests**: Unity, Assembly Language
 
 ## ⚽ Fun Facts
 - I love football and support **Barcelona**! ⚽
 - Enjoy spending time with friends and a good laugh. 😂
 
 ## 📫 Let's Connect
-- **LinkedIn**: [Karim Yasser](https://www.linkedin.com/in/karimyasser)
-- **Email**: [karimyasser.dev@gmail.com](mailto:karimyasser.dev@gmail.com)
+- **LinkedIn**: [Karim Yasser](https://www.linkedin.com/in/karimmyasserr)
+- **Email**: [karimyasser.dev@gmail.com](mailto:karimmyasserr@gmail.com)
 - **GitHub**: [KarimmYasser](https://github.com/KarimmYasser)
 
 ## 🏆 GitHub Stats
