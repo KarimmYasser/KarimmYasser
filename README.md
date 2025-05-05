@@ -13,8 +13,8 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Mobile Development with Flutter**
-- 🌱 I’m currently learning **Python**, **Backend Development**, **Databases**
-- 💬 Ask me about **Flutter**, **Unity**, **C++**, **SQL**, **Game Development**
+- 🌱 I’m currently learning **Python**, **Backend Development**
+- 💬 Ask me about **Flutter**, **Dart**, **C++**, **SQL**
 - 📫 Feel free to reach me out at **karimmyasserr@gmail.com**
 - 🏠 Don't hesitate to drop me a **👋** on Discord – [KarimmYasser](https://discordapp.com/users/karimmyasser)
 
