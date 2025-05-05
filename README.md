@@ -12,7 +12,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KarimmYasser.KarimmYasser&left_color=royalblue&right_color=black"  />
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Mobile Development with Flutter**
+- 🔭 I’m currently working **Mobile Development with Flutter**
 - 🌱 I’m currently learning **Python**, **Backend Development**
 - 💬 Ask me about **Flutter**, **Dart**, **C++**, **SQL**
 - 📫 Feel free to reach me out at **karimmyasserr@gmail.com**
