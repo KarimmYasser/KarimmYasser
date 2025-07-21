@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,cs,java,html,css,js,react,nodejs,ts,nextjs,unity,postgres,firebase,mongodb,git,github,vscode,latex,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,java,postgres,mongodb,git,github,vscode,latex,discord&perline=14" />
   </a>
 </p>
 
