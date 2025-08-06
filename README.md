@@ -34,7 +34,6 @@
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=KarimmYasser&show_icons=true&theme=onedark&count_private=true" />
         <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarimmYasser&theme=onedark&hide_border=false" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KarimmYasser&theme=onedark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
