@@ -12,7 +12,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KarimmYasser.KarimmYasser&left_color=royalblue&right_color=black"  />
 
 <!--Intro start-->
-- 🧑‍🎓 **Computer Engineering student** at Cairo University, building user-focused mobile and data-driven solutions.
+- 🧑‍🎓 **Computer Engineer** at Cairo University, building user-focused mobile and data-driven solutions.
 - 📱 Experienced in **Mobile Development** using **Flutter** and native **Android** with **Kotlin**.
 - 📊 Currently a **Data Science Trainee** @ DEPI, diving deep into **Python**, **Machine Learning**, and **MLOps**.
 - 🧠 Passionate about **Problem Solving** and sharpening skills on [LeetCode](https://leetcode.com/KarimmYasser/)  
