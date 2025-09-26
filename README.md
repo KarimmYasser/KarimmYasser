@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,cpp,python,java,kotlin,postgres,mysql,supabase,arduino,figma,git,github,vscode,linux,latex,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,java,kotlin,mysql,supabase,figma,git,github,vscode,linux,latex&perline=14" />
   </a>
 </p>
 
