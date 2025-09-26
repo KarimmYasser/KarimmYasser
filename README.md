@@ -12,11 +12,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KarimmYasser.KarimmYasser&left_color=royalblue&right_color=black"  />
 
 <!--Intro start-->
-- 🧑‍🎓 **Computer Engineering student** at Cairo University  
-- 📱 Passionate about **Mobile Development with Flutter**  
-- 💻 Currently diving into **Backend Development** and learning **Python**  
-- 🧠 Interested in **Problem Solving** and sharpening skills on [LeetCode](https://leetcode.com/KarimmYasser/)  
-- 🛠️ Experienced with **Flutter**, **Dart**, **C++**, **SQL**, **LaTeX**, **Java**  
+- 🧑‍🎓 **Computer Engineering student** at Cairo University, building user-focused mobile and data-driven solutions.
+- 📱 Experienced in **Mobile Development** using **Flutter** and native **Android** with **Kotlin**.
+- 📊 Currently a **Data Science Trainee** @ DEPI, diving deep into **Python**, **Machine Learning**, and **MLOps**.
+- 🧠 Passionate about **Problem Solving** and sharpening skills on [LeetCode](https://leetcode.com/KarimmYasser/)  
+- 🛠️ Experienced with **Kotlin**, **Flutter**, **Dart**, **Jetpack**, **Room DB**, **Python**, **C++**, **SQL**, **LaTeX**, **Java**  
 - 📬 Reach me at **karimmyasserr@gmail.com**  
 - 💬 Let's connect on Discord → [KarimmYasser](https://discordapp.com/users/karimmyasser) 
 
