@@ -36,7 +36,7 @@
         <br><br>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KarimmYasser&theme=onedark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KarimmYasser&theme=onedark&hide_border=false&no-bg=true&no-frame=true&langs_count=8&layout=compact"/>
         <br><br>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarimmYasser&theme=github">
       </td>
