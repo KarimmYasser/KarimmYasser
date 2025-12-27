@@ -42,25 +42,25 @@
 </p>
 
 <!-- Achievements -->
-<p align="center">
+<!-- <p align="center">
   <img src="./metrics.plugin.achievements.compact.svg" alt="Achievements" />
-</p>
+</p> -->
 
 <!-- Languages -->
 <p align="center">
   <img src="./metrics.plugin.languages.indepth.svg" alt="Languages Indepth" />
-  <img src="./metrics.plugin.languages.recent.svg" alt="Recently Used Languages" />
+  <!-- <img src="./metrics.plugin.languages.recent.svg" alt="Recently Used Languages" /> -->
 </p>
 
 <!-- Coding Habits -->
-<p align="center">
+<!-- <p align="center">
   <img src="./metrics.plugin.habits.charts.svg" alt="Coding Habits" />
-</p>
+</p> -->
 
 <!-- Starred Languages -->
-<p align="center">
+<!-- <p align="center">
   <img src="./metrics.plugin.starlists.languages.svg" alt="Starred Languages" />
-</p>
+</p> -->
 
 <!-- Isocalendar -->
 <p align="center">
@@ -68,9 +68,9 @@
 </p>
 
 <!-- Code Snippet -->
-<p align="center">
+<!-- <p align="center">
   <img src="./metrics.plugin.code.svg" alt="Code Snippet" />
-</p>
+</p> -->
 
 <!-- Tech Stack -->
 <div id="user-content-toc">
