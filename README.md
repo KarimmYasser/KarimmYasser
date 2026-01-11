@@ -14,10 +14,10 @@
 <!--Intro start-->
 
 - 🧑‍🎓 **Computer Engineer** at Cairo University with 2+ years of experience in mobile, web & ML development.
-- � **Software Developer** @ [I'SUPPLY](https://github.com/KarimmYasser) — 🏆 Won 1st place in a 30+ team hackathon!
+- � **Software Developer** @ [I'SUPPLY](https://github.com/KarimmYasser) - 🏆 Won 1st place in a 30+ team hackathon!
 - 🎓 **Session Lead** @ Udacity (DECI) | **Resource Management** @ Enactus Cairo University
 - 📱 Expert in **Flutter** (Mobile & Desktop), **Android** (Kotlin, Jetpack Compose), and **React Native** (Expo).
-- 🤖 Certified **IBM Data Scientist** — Python, ML, MLOps with MLflow & HuggingFace.
+- 🤖 Certified **IBM Data Scientist** - Python, ML, MLOps with MLflow & HuggingFace.
 - 🧠 Passionate about **Problem Solving** on [LeetCode](https://leetcode.com/KarimmYasser/) & competitive programming.
 - 🛠️ **Tech Stack:** Dart, Kotlin, Python, TypeScript, C++, SQL, Flutter, React Native, Firebase, Supabase
 - 📬 Reach me at **karimmyasserr@gmail.com** | 🌐 [Portfolio](https://karim-yasser.vercel.app)
