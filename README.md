@@ -18,7 +18,7 @@
 - 🏆 **1st Place** - [I'SUPPLY Hackathon](https://github.com/KarimmYasser/isupply_app) (30+ teams), earning a full-time offer.
 - 💼 **Software Developer** @ I'SUPPLY | **Session Lead** @ Udacity (DECI) | **Android Intern** @ Banque Misr
 - 📱 Expert in **Flutter** (Mobile & Desktop), **Android** (Kotlin, Jetpack Compose), and **React Native** (Expo).
-- 🤖 Certified **IBM Data Scientist** — Python, ML, MLOps with MLflow & HuggingFace.
+- 🤖 Certified **IBM Data Scientist** - Python, ML, MLOps with MLflow & HuggingFace.
 - 🧠 Passionate about **Problem Solving** on [LeetCode](https://leetcode.com/KarimmYasser/) & competitive programming.
 - 📬 Reach me at **karimmyasserr@gmail.com** | 🌐 [Portfolio](https://karim-yasser.vercel.app)
 
