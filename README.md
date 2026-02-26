@@ -13,15 +13,14 @@
 
 <!--Intro start-->
 
-- 🧑‍🎓 **Computer Engineer** at Cairo University with 2+ years of experience in mobile, web & ML development.
-- � **Software Developer** @ [I'SUPPLY](https://github.com/KarimmYasser) - 🏆 Won 1st place in a 30+ team hackathon!
-- 🎓 **Session Lead** @ Udacity (DECI) | **Resource Management** @ Enactus Cairo University
+- 🧑‍🎓 **Computer Engineering** student at Cairo University with **2+ years** of experience in mobile, web & ML development.
+- 🏆 **1st Place** - [ODC x INSTANT AI Hackathon](https://github.com/KarimmYasser/braTs-ai-hackathon-ODCxINSTANT) (Brain Tumor Segmentation with MedNeXt).
+- 🏆 **1st Place** - [I'SUPPLY Hackathon](https://github.com/KarimmYasser/isupply_app) (30+ teams), earning a full-time offer.
+- 💼 **Software Developer** @ I'SUPPLY | **Session Lead** @ Udacity (DECI) | **Android Intern** @ Banque Misr
 - 📱 Expert in **Flutter** (Mobile & Desktop), **Android** (Kotlin, Jetpack Compose), and **React Native** (Expo).
-- 🤖 Certified **IBM Data Scientist** - Python, ML, MLOps with MLflow & HuggingFace.
+- 🤖 Certified **IBM Data Scientist** — Python, ML, MLOps with MLflow & HuggingFace.
 - 🧠 Passionate about **Problem Solving** on [LeetCode](https://leetcode.com/KarimmYasser/) & competitive programming.
-- 🛠️ **Tech Stack:** Dart, Kotlin, Python, TypeScript, C++, SQL, Flutter, React Native, Firebase, Supabase
 - 📬 Reach me at **karimmyasserr@gmail.com** | 🌐 [Portfolio](https://karim-yasser.vercel.app)
-- 💬 Discord → [KarimmYasser](https://discordapp.com/users/karimmyasser)
 
 <!--Intro end-->
 
@@ -41,36 +40,65 @@
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-<!-- Achievements -->
-<!-- <p align="center">
-  <img src="./metrics.plugin.achievements.compact.svg" alt="Achievements" />
-</p> -->
-
 <!-- Languages -->
 <p align="center">
   <img src="./metrics.plugin.languages.indepth.svg" alt="Languages Indepth" />
-  <!-- <img src="./metrics.plugin.languages.recent.svg" alt="Recently Used Languages" /> -->
 </p>
-
-<!-- Coding Habits -->
-<!-- <p align="center">
-  <img src="./metrics.plugin.habits.charts.svg" alt="Coding Habits" />
-</p> -->
-
-<!-- Starred Languages -->
-<!-- <p align="center">
-  <img src="./metrics.plugin.starlists.languages.svg" alt="Starred Languages" />
-</p> -->
 
 <!-- Isocalendar -->
 <p align="center">
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isocalendar" />
 </p>
 
-<!-- Code Snippet -->
-<!-- <p align="center">
-  <img src="./metrics.plugin.code.svg" alt="Code Snippet" />
-</p> -->
+<!-- Experience Section -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Experience 💼</h2></summary>
+  </ul>
+</div>
+
+<table align="center">
+  <tr>
+    <th>Role</th>
+    <th>Organization</th>
+    <th>Period</th>
+  </tr>
+  <tr>
+    <td>🎓 Session Lead</td>
+    <td>Udacity (DECI)</td>
+    <td>Nov 2025 - Present</td>
+  </tr>
+  <tr>
+    <td>💻 Software Developer</td>
+    <td>I'SUPPLY</td>
+    <td>Jul 2025 - Dec 2025</td>
+  </tr>
+  <tr>
+    <td>📊 Data Science Trainee</td>
+    <td>DEPI (IBM Certified)</td>
+    <td>Jun 2025 - Dec 2025</td>
+  </tr>
+  <tr>
+    <td>📱 Android Developer Intern</td>
+    <td>Banque Misr</td>
+    <td>Jul 2025 - Sep 2025</td>
+  </tr>
+  <tr>
+    <td>🤖 Mobile Dev Intern (Flutter & ML)</td>
+    <td>Informatique</td>
+    <td>Jul 2025 - Aug 2025</td>
+  </tr>
+  <tr>
+    <td>🎤 Flutter Instructor</td>
+    <td>IEEE Cairo University SB</td>
+    <td>Feb 2025 - May 2025</td>
+  </tr>
+  <tr>
+    <td>📲 Flutter Developer Intern</td>
+    <td>SlashHub</td>
+    <td>Oct 2024 - Jan 2025</td>
+  </tr>
+</table>
 
 <!-- Tech Stack -->
 <div id="user-content-toc">
@@ -79,9 +107,35 @@
   </ul>
 </div>
 
+<!--  Mobile & Frontend  -->
+<h4 align="center">📱 Mobile & Frontend</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,react,javascript,ts,python,cpp,java,mysql,firebase,supabase,docker,git,github,vscode,linux,latex&perline=20" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,react,js,ts&perline=20" />
+  </a>
+</p>
+
+<!--  Backend & Data  -->
+<h4 align="center">⚙️ Backend & Data</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,firebase,supabase,mysql,sqlite&perline=20" />
+  </a>
+</p>
+
+<!--  ML / AI  -->
+<h4 align="center">🤖 Machine Learning & AI</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&perline=20" />
+  </a>
+</p>
+
+<!--  Systems & Hardware  -->
+<h4 align="center">🔧 Systems & Tools</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,docker,git,github,linux,vscode,latex&perline=20" />
   </a>
 </p>
 
@@ -121,33 +175,45 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/isupply_app"><b>🏆 i'Supply POS App</b></a><br>
-      <sub>Flutter • Hive • Supabase</sub><br>
-      <sub>1st Place Hackathon Winner - Cross-platform POS system with offline sync</sub>
+      <a href="https://github.com/KarimmYasser/braTs-ai-hackathon-ODCxINSTANT"><b>🧠 BioMedIAMBZ – Brain Tumor Segmentation</b></a><br>
+      <sub>PyTorch • MONAI • FastAPI • React Native</sub><br>
+      <sub>🏆 1st Place - 3D segmentation with MedNeXt, 40x faster preprocessing & mobile inference</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/yapper-mobile"><b>📱 Yapper - X Clone</b></a><br>
-      <sub>React Native • Expo • WebSocket</sub><br>
-      <sub>Real-time messaging, RTL support, AI summarization, CI/CD</sub>
+      <a href="https://github.com/KarimmYasser/isupply_app"><b>🏆 i'Supply POS App</b></a><br>
+      <sub>Flutter • Hive • Supabase</sub><br>
+      <sub>1st Place Hackathon Winner - Cross-platform POS with offline sync, 1000+ products</sub>
     </td>
   </tr>
   <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/KarimmYasser/yapper-mobile"><b>📱 Yapper - X Clone</b></a><br>
+      <sub>React Native • Expo • WebSocket</sub><br>
+      <sub>Real-time messaging, RTL support, AI summarization, CI/CD via EAS</sub>
+    </td>
     <td align="center" width="50%">
       <a href="https://github.com/KarimmYasser/Walmart-Sales-Forecasting-ML"><b>📊 Walmart Sales Forecasting</b></a><br>
       <sub>Python • Scikit-learn • MLflow • Docker</sub><br>
       <sub>ML pipeline with 99.96% R² accuracy, FastAPI & Streamlit deployment</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/KarimmYasser/VLSI-Convolution-Systolic-Accelerator"><b>⚡ VLSI Systolic Accelerator</b></a><br>
       <sub>Verilog • OpenLane • SKY130 PDK</sub><br>
-      <sub>8x8 systolic array for neural network inference</sub>
+      <sub>8x8 systolic array for neural network inference, full RTL-to-GDSII flow</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/KarimmYasser/stall_3alda2ery"><b>🖥️ 5-Stage Pipelined Processor</b></a><br>
+      <sub>VHDL • Python</sub><br>
+      <sub>32-bit processor with hazard handling, branch prediction & custom assembler</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/stall_3alda2ery"><b>🖥️ 5-Stage Pipelined Processor</b></a><br>
-      <sub>VHDL • Python</sub><br>
-      <sub>32-bit processor with hazard handling & branch prediction</sub>
+      <a href="https://github.com/KarimmYasser/sher-look"><b>🔍 Sherlook Web Engine</b></a><br>
+      <sub>Custom Crawler • Indexer • Ranking</sub><br>
+      <sub>Search engine processing 50K+ pages with custom ranking algorithm</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/KarimmYasser/portfolio"><b>🌐 Portfolio Website</b></a><br>
@@ -159,7 +225,7 @@
 
 <p align="center">
   <a href="https://github.com/KarimmYasser?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+    <img src="https://img.shields.io/badge/View%20All%2030+%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
 </p>
 
