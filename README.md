@@ -14,9 +14,10 @@
 <!--Intro start-->
 
 - 🧑‍🎓 **Computer Engineering** student at Cairo University with **2+ years** of experience in mobile, web & ML development.
+- 🤖 **Agentic AI Specialist** - Building autonomous agents with **LangGraph**, **LangChain**, and **LLMs**.
 - 🏆 **1st Place** - [ODC x INSTANT AI Hackathon](https://github.com/KarimmYasser/braTs-ai-hackathon-ODCxINSTANT) (Brain Tumor Segmentation with MedNeXt).
 - 🏆 **1st Place** - [I'SUPPLY Hackathon](https://github.com/KarimmYasser/isupply_app) (30+ teams), earning a full-time offer.
-- 💼 **Software Developer** @ I'SUPPLY | **Session Lead** @ Udacity (DECI) | **Android Intern** @ Banque Misr
+- 💼 **Agentic AI Trainee** @ ODC Egypt | **Software Developer** @ I'SUPPLY | **Session Lead** @ Udacity
 - 📱 Expert in **Flutter** (Mobile & Desktop), **Android** (Kotlin, Jetpack Compose), and **React Native** (Expo).
 - 🤖 Certified **IBM Data Scientist** - Python, ML, MLOps with MLflow & HuggingFace.
 - 🧠 Passionate about **Problem Solving** on [LeetCode](https://leetcode.com/KarimmYasser/) & competitive programming.
@@ -64,9 +65,19 @@
     <th>Period</th>
   </tr>
   <tr>
+    <td>🤖 Agentic AI Trainee</td>
+    <td>Orange Digital Center Egypt</td>
+    <td>Feb 2026 - Apr 2026</td>
+  </tr>
+  <tr>
     <td>🎓 Session Lead</td>
     <td>Udacity (DECI)</td>
-    <td>Nov 2025 - Present</td>
+    <td>Nov 2025 - Mar 2026</td>
+  </tr>
+  <tr>
+    <td>🌍 Resource Management Member</td>
+    <td>Enactus Cairo University</td>
+    <td>Dec 2025 - Feb 2026</td>
   </tr>
   <tr>
     <td>💻 Software Developer</td>
@@ -88,16 +99,6 @@
     <td>Informatique</td>
     <td>Jul 2025 - Aug 2025</td>
   </tr>
-  <tr>
-    <td>🎤 Flutter Instructor</td>
-    <td>IEEE Cairo University SB</td>
-    <td>Feb 2025 - May 2025</td>
-  </tr>
-  <tr>
-    <td>📲 Flutter Developer Intern</td>
-    <td>SlashHub</td>
-    <td>Oct 2024 - Jan 2025</td>
-  </tr>
 </table>
 
 <!-- Tech Stack -->
@@ -106,6 +107,16 @@
     <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
+<!-- AI & ML -->
+<h4 align="center">🤖 Agentic AI & Machine Learning</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&perline=20" />
+  </a>
+  <br>
+  <code>LangGraph</code> • <code>LangChain</code> • <code>Neo4j</code> • <code>LLMs</code> • <code>MONAI</code> • <code>MLflow</code> • <code>FastAPI</code>
+</p>
 
 <!--  Mobile & Frontend  -->
 <h4 align="center">📱 Mobile & Frontend</h4>
@@ -120,14 +131,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,fastapi,firebase,supabase,mysql,sqlite&perline=20" />
-  </a>
-</p>
-
-<!--  ML / AI  -->
-<h4 align="center">🤖 Machine Learning & AI</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&perline=20" />
   </a>
 </p>
 
@@ -175,6 +178,18 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
+      <a href="https://github.com/KarimmYasser/sql-station-logistics-chatbot"><b>🚀 Space Station Supply Agent</b></a><br>
+      <sub>LangGraph • SQLite • LLMs</sub><br>
+      <sub>Autonomous AI agent with self-healing error recovery for natural language SQL queries</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/KarimmYasser/neo4j-adventure-time-chatbot"><b>⚔️ Adventure Time Lore Keeper</b></a><br>
+      <sub>Neo4j • LangChain • Cypher</sub><br>
+      <sub>Knowledge Graph AI agent with dynamic query generation and conversational memory</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/KarimmYasser/braTs-ai-hackathon-ODCxINSTANT"><b>🧠 BioMedIAMBZ – Brain Tumor Segmentation</b></a><br>
       <sub>PyTorch • MONAI • FastAPI • React Native</sub><br>
       <sub>🏆 1st Place - 3D segmentation with MedNeXt, 40x faster preprocessing & mobile inference</sub>
@@ -204,21 +219,9 @@
       <sub>8x8 systolic array for neural network inference, full RTL-to-GDSII flow</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/stall_3alda2ery"><b>🖥️ 5-Stage Pipelined Processor</b></a><br>
-      <sub>VHDL • Python</sub><br>
-      <sub>32-bit processor with hazard handling, branch prediction & custom assembler</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/sher-look"><b>🔍 Sherlook Web Engine</b></a><br>
-      <sub>Custom Crawler • Indexer • Ranking</sub><br>
-      <sub>Search engine processing 50K+ pages with custom ranking algorithm</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/portfolio"><b>🌐 Portfolio Website</b></a><br>
-      <sub>React • TypeScript • Three.js</sub><br>
-      <sub>Animated portfolio with 3D background & Framer Motion</sub>
+      <a href="https://github.com/KarimmYasser/FM_Stereo_System"><b>📻 FM Stereo System Simulation</b></a><br>
+      <sub>Python • NumPy • SciPy</sub><br>
+      <sub>Software-defined FM Transmitter & Receiver with frequency deviation and noise analysis</sub>
     </td>
   </tr>
 </table>
@@ -254,3 +257,4 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
