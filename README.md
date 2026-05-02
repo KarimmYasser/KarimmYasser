@@ -111,20 +111,20 @@
 <h4 align="center">🤖 Agentic AI & Machine Learning</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,huggingface&perline=20" />
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,fastapi&perline=20" />
   </a>
   <br>
-  <code>LangGraph</code> • <code>LangChain</code> • <code>Neo4j</code> • <code>LLM-as-a-Judge</code> • <code>MONAI</code> • <code>MLflow</code> • <code>FastAPI</code>
+  <code>LangGraph</code> • <code>LangChain</code> • <code>Hugging Face</code> • <code>LLM-as-a-Judge</code> • <code>MONAI</code> • <code>MLflow</code> • <code>Neo4j</code>
 </p>
 
 <!--  Systems & Game Engineering  -->
 <h4 align="center">🎮 Systems & Game Engineering</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,rust,opengl,linux,docker&perline=20" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,rust,linux,docker&perline=20" />
   </a>
   <br>
-  <code>Entity Component System (ECS)</code> • <code>FFmpeg</code> • <code>Miniaudio</code> • <code>Verilog</code> • <code>SKY130 PDK</code>
+  <code>OpenGL</code> • <code>Entity Component System (ECS)</code> • <code>FFmpeg</code> • <code>Miniaudio</code> • <code>Verilog</code>
 </p>
 
 <!--  Mobile & Frontend  -->
