@@ -13,14 +13,13 @@
 
 <!--Intro start-->
 
-- 🧑‍🎓 **Computer Engineering** student at Cairo University with **2+ years** of experience in mobile, web & ML development.
-- 🤖 **Agentic AI Specialist** - Building autonomous agents with **LangGraph**, **LangChain**, and **LLMs**.
-- 🏆 **1st Place** - [ODC x INSTANT AI Hackathon](https://github.com/KarimmYasser/braTs-ai-hackathon-ODCxINSTANT) (Brain Tumor Segmentation with MedNeXt).
+- 🧑‍🎓 **Computer Engineering** student @ Cairo University (2022-2027) with **2+ years** of professional experience.
+- 🎮 **Systems Architect** - Developed a high-performance **C++17/OpenGL** Game Engine & **Verilog** VLSI accelerators.
+- 🤖 **Agentic AI Specialist** - Researching **Multimodal Evaluation** (GSoC 2026) and building autonomous agents with **LangGraph**.
+- 🏆 **1st Place** - [ODC x INSTANT AI Hackathon](https://github.com/KarimmYasser/braTs-ai-hackathon-ODCxINSTANT) (Brain Tumor Segmentation).
 - 🏆 **1st Place** - [I'SUPPLY Hackathon](https://github.com/KarimmYasser/isupply_app) (30+ teams), earning a full-time offer.
-- 💼 **Agentic AI Trainee** @ ODC Egypt | **Software Developer** @ I'SUPPLY | **Session Lead** @ Udacity
-- 📱 Expert in **Flutter** (Mobile & Desktop), **Android** (Kotlin, Jetpack Compose), and **React Native** (Expo).
-- 🤖 Certified **IBM Data Scientist** - Python, ML, MLOps with MLflow & HuggingFace.
-- 🧠 Passionate about **Problem Solving** on [LeetCode](https://leetcode.com/KarimmYasser/) & competitive programming.
+- 💼 **Agentic AI Trainee** @ ODC Egypt | **Software Developer** @ I'SUPPLY | **Session Lead** @ Udacity.
+- 🧠 **IBM Certified Data Scientist** - Expert in **MLOps** (MLflow, Docker) and **Rust-powered** feature engineering.
 - 📬 Reach me at **karimmyasserr@gmail.com** | 🌐 [Portfolio](https://karim-yasser.vercel.app)
 
 <!--Intro end-->
@@ -54,7 +53,7 @@
 <!-- Experience Section -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Experience 💼</h2></summary>
+    <summary><h2 style="display: inline-block">Professional Experience 💼</h2></summary>
   </ul>
 </div>
 
@@ -73,11 +72,6 @@
     <td>🎓 Session Lead</td>
     <td>Udacity (DECI)</td>
     <td>Nov 2025 - Mar 2026</td>
-  </tr>
-  <tr>
-    <td>🌍 Resource Management Member</td>
-    <td>Enactus Cairo University</td>
-    <td>Dec 2025 - Feb 2026</td>
   </tr>
   <tr>
     <td>💻 Software Developer</td>
@@ -99,12 +93,17 @@
     <td>Informatique</td>
     <td>Jul 2025 - Aug 2025</td>
   </tr>
+  <tr>
+    <td>👨‍🏫 Flutter Instructor</td>
+    <td>IEEE Cairo University SB</td>
+    <td>Feb 2025 - May 2025</td>
+  </tr>
 </table>
 
 <!-- Tech Stack -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technical Arsenal 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -112,46 +111,50 @@
 <h4 align="center">🤖 Agentic AI & Machine Learning</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&perline=20" />
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,huggingface&perline=20" />
   </a>
   <br>
-  <code>LangGraph</code> • <code>LangChain</code> • <code>Neo4j</code> • <code>LLMs</code> • <code>MONAI</code> • <code>MLflow</code> • <code>FastAPI</code>
+  <code>LangGraph</code> • <code>LangChain</code> • <code>Neo4j</code> • <code>LLM-as-a-Judge</code> • <code>MONAI</code> • <code>MLflow</code> • <code>FastAPI</code>
+</p>
+
+<!--  Systems & Game Engineering  -->
+<h4 align="center">🎮 Systems & Game Engineering</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,rust,opengl,linux,docker&perline=20" />
+  </a>
+  <br>
+  <code>Entity Component System (ECS)</code> • <code>FFmpeg</code> • <code>Miniaudio</code> • <code>Verilog</code> • <code>SKY130 PDK</code>
 </p>
 
 <!--  Mobile & Frontend  -->
-<h4 align="center">📱 Mobile & Frontend</h4>
+<h4 align="center">📱 Mobile & Cross-Platform</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,react,js,ts&perline=20" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,react,ts&perline=20" />
   </a>
+  <br>
+  <code>Jetpack Compose</code> • <code>Riverpod</code> • <code>Flutter BLoC</code> • <code>React Native (Expo)</code>
 </p>
 
-<!--  Backend & Data  -->
-<h4 align="center">⚙️ Backend & Data</h4>
+<!--  Backend & Tools  -->
+<h4 align="center">⚙️ Backend & Infrastructure</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,firebase,supabase,mysql,sqlite&perline=20" />
-  </a>
-</p>
-
-<!--  Systems & Hardware  -->
-<h4 align="center">🔧 Systems & Tools</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,docker,git,github,linux,vscode,latex&perline=20" />
+    <img src="https://skillicons.dev/icons?i=python,supabase,firebase,mysql,sqlite,git,github,vscode,latex&perline=20" />
   </a>
 </p>
 
 <!-- LeetCode / Problem Solving Section -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Problem Solving & Competitive Programming 🧠</h2></summary>
+    <summary><h2 style="display: inline-block">Problem Solving 🧠</h2></summary>
   </ul>
 </div>
 
 <p align="center">
-  I enjoy solving algorithmic challenges and improving my coding skills on platforms like <strong>LeetCode</strong>.<br>
-  I'm passionate about <strong>data structures, algorithms, and computational geometry</strong>.
+  I'm passionate about <strong>Data Structures, Algorithms, and Computational Geometry</strong>.<br>
+  Active on <strong>LeetCode</strong> and exploring <strong>Post-Quantum Cryptography</strong>.
 </p>
 
 <p align="center">
@@ -160,75 +163,71 @@
 
 <p align="center">
   <a href="https://leetcode.com/KarimmYasser/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" />
-  </a>
-  <br>
-  <a href="https://leetcode.com/KarimmYasser/" target="blank">
-    🔗 Visit My LeetCode Profile
+    🔗 <b>Visit My LeetCode Profile</b>
   </a>
 </p>
 
 <!-- Featured Projects -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Featured Projects 🚀</h2></summary>
+    <summary><h2 style="display: inline-block">Featured Engineering Feats 🚀</h2></summary>
   </ul>
 </div>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/sql-station-logistics-chatbot"><b>🚀 Space Station Supply Agent</b></a><br>
-      <sub>LangGraph • SQLite • LLMs</sub><br>
-      <sub>Autonomous AI agent with self-healing error recovery for natural language SQL queries</sub>
+      <a href="https://github.com/KarimmYasser/aladdin-nasiras-revenge"><b>🎮 Aladdin: C++ Game Engine</b></a><br>
+      <sub>C++17 • OpenGL 3.3 • ECS • miniaudio</sub><br>
+      <sub>High-performance 3D engine with deferred lifecycle management, 16k shadow mapping, and GPU skinning.</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/neo4j-adventure-time-chatbot"><b>⚔️ Adventure Time Lore Keeper</b></a><br>
-      <sub>Neo4j • LangChain • Cypher</sub><br>
-      <sub>Knowledge Graph AI agent with dynamic query generation and conversational memory</sub>
+      <a href="https://github.com/KarimmYasser/ai-eval-framework"><b>🔬 AI API Evaluation Framework</b></a><br>
+      <sub>GSoC 2026 • Multimodal AI • FastAPI</sub><br>
+      <sub>Research-driven platform for Agentic Workflows with Dual-Metric Scoring and Trace Viewer.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/KarimmYasser/machine-sound-classification"><b>🔊 Industrial Sound AI Pipeline</b></a><br>
+      <sub>Rust • PyO3 • XGBoost • EfficientAT</sub><br>
+      <sub>Cloud diagnostics achieve 95.61% accuracy. Rust engine provides 57x speedup in feature extraction.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/KarimmYasser/robot-wall-follower"><b>🤖 Autonomous Wall-Following Robot</b></a><br>
+      <sub>Embedded C • ATmega328P • PID Control</sub><br>
+      <sub>Interrupt-driven architecture with Cascaded PID loops and FSM for autonomous navigation.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/KarimmYasser/braTs-ai-hackathon-ODCxINSTANT"><b>🧠 BioMedIAMBZ – Brain Tumor Segmentation</b></a><br>
-      <sub>PyTorch • MONAI • FastAPI • React Native</sub><br>
-      <sub>🏆 1st Place - 3D segmentation with MedNeXt, 40x faster preprocessing & mobile inference</sub>
+      <sub>🏆 1st Place • PyTorch • MONAI • MedNeXt</sub><br>
+      <sub>3D segmentation pipeline with 40x faster preprocessing and real-time mobile inference.</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/isupply_app"><b>🏆 i'Supply POS App</b></a><br>
-      <sub>Flutter • Hive • Supabase</sub><br>
-      <sub>1st Place Hackathon Winner - Cross-platform POS with offline sync, 1000+ products</sub>
+      <a href="https://github.com/KarimmYasser/hash-clash-keys-please"><b>🔐 Cryptographic Hash Research</b></a><br>
+      <sub>BLAKE-256 • ARX • Security Analysis</sub><br>
+      <sub>Custom security test suite evaluating diffusion speed vs structural integrity. Patching LEA vulnerabilities.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/yapper-mobile"><b>📱 Yapper - X Clone</b></a><br>
-      <sub>React Native • Expo • WebSocket</sub><br>
-      <sub>Real-time messaging, RTL support, AI summarization, CI/CD via EAS</sub>
+      <a href="https://github.com/KarimmYasser/isupply_app"><b>🏆 i'Supply POS Ecosystem</b></a><br>
+      <sub>🏆 1st Place • Flutter • Hive • Supabase</sub><br>
+      <sub>Production-ready POS with offline sync and paginated search for 1000+ products.</sub>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/Walmart-Sales-Forecasting-ML"><b>📊 Walmart Sales Forecasting</b></a><br>
-      <sub>Python • Scikit-learn • MLflow • Docker</sub><br>
-      <sub>ML pipeline with 99.96% R² accuracy, FastAPI & Streamlit deployment</sub>
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/KarimmYasser/VLSI-Convolution-Systolic-Accelerator"><b>⚡ VLSI Systolic Accelerator</b></a><br>
       <sub>Verilog • OpenLane • SKY130 PDK</sub><br>
-      <sub>8x8 systolic array for neural network inference, full RTL-to-GDSII flow</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/FM_Stereo_System"><b>📻 FM Stereo System Simulation</b></a><br>
-      <sub>Python • NumPy • SciPy</sub><br>
-      <sub>Software-defined FM Transmitter & Receiver with frequency deviation and noise analysis</sub>
+      <sub>8x8 systolic array for neural network inference. Full RTL-to-GDSII flow via OpenLane.</sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/KarimmYasser?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%2030+%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+    <img src="https://img.shields.io/badge/Explore%20All%2040+%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
 </p>
 
