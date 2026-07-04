@@ -18,7 +18,7 @@
 - 🤖 **Agentic AI Specialist** - Researching **Multimodal Evaluation** (GSoC 2026) and building autonomous agents with **LangGraph**.
 - 🏆 **1st Place** - [ODC x INSTANT AI Hackathon](https://github.com/KarimmYasser/braTs-ai-hackathon-ODCxINSTANT) (Brain Tumor Segmentation).
 - 🏆 **1st Place** - [I'SUPPLY Hackathon](https://github.com/KarimmYasser/isupply_app) (30+ teams), earning a full-time offer.
-- 💼 **Agentic AI Trainee** @ ODC Egypt | **Software Developer** @ I'SUPPLY | **Session Lead** @ Udacity.
+- 💼 **Software Engineer Intern** @ Siemens | **Agentic AI Trainee** @ ODC Egypt | **Software Developer** @ I'SUPPLY.
 - 🧠 **IBM Certified Data Scientist** - Expert in **MLOps** (MLflow, Docker) and **Rust-powered** feature engineering.
 - 📬 Reach me at **karimmyasserr@gmail.com** | 🌐 [Portfolio](https://karim-yasser.vercel.app)
 
@@ -62,6 +62,11 @@
     <th>Role</th>
     <th>Organization</th>
     <th>Period</th>
+  </tr>
+  <tr>
+    <td>⚙️ Software Engineer Intern</td>
+    <td>Siemens Digital Industries Software</td>
+    <td>Jul 2026 - Aug 2026</td>
   </tr>
   <tr>
     <td>🤖 Agentic AI Trainee</td>
@@ -177,50 +182,50 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
+      <a href="https://github.com/KarimmYasser/GSoCPathfinder"><b>🤖 GSoC Pathfinder</b></a><br>
+      <sub>LangGraph • Neo4j • Qdrant • Rust</sub><br>
+      <sub>AI Agent system for organization matching with graph vector search and 7-Factor ranking.</sub>
+    </td>
+    <td align="center" width="50%">
       <a href="https://github.com/KarimmYasser/aladdin-nasiras-revenge"><b>🎮 Aladdin: C++ Game Engine</b></a><br>
       <sub>C++17 • OpenGL 3.3 • ECS • miniaudio</sub><br>
       <sub>High-performance 3D engine with deferred lifecycle management, 16k shadow mapping, and GPU skinning.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/KarimmYasser/ai-eval-framework"><b>🔬 AI API Evaluation Framework</b></a><br>
       <sub>GSoC 2026 • Multimodal AI • FastAPI</sub><br>
       <sub>Research-driven platform for Agentic Workflows with Dual-Metric Scoring and Trace Viewer.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/KarimmYasser/machine-sound-classification"><b>🔊 Industrial Sound AI Pipeline</b></a><br>
       <sub>Rust • PyO3 • XGBoost • EfficientAT</sub><br>
       <sub>Cloud diagnostics achieve 95.61% accuracy. Rust engine provides 57x speedup in feature extraction.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/KarimmYasser/robot-wall-follower"><b>🤖 Autonomous Wall-Following Robot</b></a><br>
       <sub>Embedded C • ATmega328P • PID Control</sub><br>
       <sub>Interrupt-driven architecture with Cascaded PID loops and FSM for autonomous navigation.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/KarimmYasser/braTs-ai-hackathon-ODCxINSTANT"><b>🧠 BioMedIAMBZ – Brain Tumor Segmentation</b></a><br>
       <sub>🏆 1st Place • PyTorch • MONAI • MedNeXt</sub><br>
       <sub>3D segmentation pipeline with 40x faster preprocessing and real-time mobile inference.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/hash-clash-keys-please"><b>🔐 Cryptographic Hash Research</b></a><br>
+      <a href="https://github.com/KarimmYasser/crypto-hash-architecture-analysis"><b>🔐 Cryptographic Hash Research</b></a><br>
       <sub>BLAKE-256 • ARX • Security Analysis</sub><br>
       <sub>Custom security test suite evaluating diffusion speed vs structural integrity. Patching LEA vulnerabilities.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/KarimmYasser/isupply_app"><b>🏆 i'Supply POS Ecosystem</b></a><br>
       <sub>🏆 1st Place • Flutter • Hive • Supabase</sub><br>
       <sub>Production-ready POS with offline sync and paginated search for 1000+ products.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/KarimmYasser/VLSI-Convolution-Systolic-Accelerator"><b>⚡ VLSI Systolic Accelerator</b></a><br>
-      <sub>Verilog • OpenLane • SKY130 PDK</sub><br>
-      <sub>8x8 systolic array for neural network inference. Full RTL-to-GDSII flow via OpenLane.</sub>
     </td>
   </tr>
 </table>
