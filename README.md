@@ -13,14 +13,14 @@
 
 <!--Intro start-->
 
-- 🧑‍🎓 **Computer Engineering** student @ Cairo University (2022-2027) with **2+ years** of professional experience.
-- 🎮 **Systems Architect** - Developed a high-performance **C++17/OpenGL** Game Engine & **Verilog** VLSI AI accelerators.
-- 🤖 **Agentic AI Specialist** - Researching **Multimodal Evaluation** (GSoC 2026) and building autonomous agents with **LangGraph**.
-- 🏆 **1st Place** - [ODC x INSTANT AI Hackathon](https://github.com/KarimmYasser/braTs-ai-hackathon-ODCxINSTANT) (Brain Tumor Segmentation).
+- 🧑‍🎓 **Computer Engineering** student @ Cairo University (2022–2027), focused on **AI systems, performance engineering, and systems programming**.
+- ⚙️ **Performance Engineering** - Optimized Siemens' **Commit-Based Analysis Tool (CAT)**, reducing database generation from **23.6 hours to ~30 minutes** through elimination of redundant processing and incremental database generation.
+- 🧩 **Systems & AI** - Building with **C++, Linux, Python, Rust, PyTorch**, and exploring **LLM inference, GPU computing, and AI infrastructure**.
+- 🏆 **1st Place** - [ODC x INSTANT AI Hackathon](https://github.com/KarimmYasser/braTs-ai-hackathon-ODCxINSTANT) for Brain Tumor Segmentation.
 - 🏆 **1st Place** - [I'SUPPLY Hackathon](https://github.com/KarimmYasser/isupply_app) (30+ teams), earning a full-time offer.
-- 💼 **Software Engineer Intern** @ Siemens | **Agentic AI Trainee** @ ODC Egypt | **Software Developer** @ I'SUPPLY.
-- 🧠 **IBM Certified Data Scientist** - Expert in **MLOps** (MLflow, Docker) and **Rust-powered** feature engineering.
-- 📬 Reach me at **karimmyasserr@gmail.com** | 🌐 [Portfolio](https://karim-yasser.vercel.app)
+- 💼 **Software Engineer Intern @ Siemens** | **Agentic AI Trainee @ Orange Digital Center** | **Software Developer @ I'SUPPLY**.
+- 📬 [Email](mailto:karimmyasserr@gmail.com) | 🌐 [Portfolio](https://karim-yasser.vercel.app)
+
 
 <!--Intro end-->
 
