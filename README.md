@@ -14,7 +14,7 @@
 <!--Intro start-->
 
 - 🧑‍🎓 **Computer Engineering** student @ Cairo University (2022-2027) with **2+ years** of professional experience.
-- 🎮 **Systems Architect** - Developed a high-performance **C++17/OpenGL** Game Engine & **Verilog** VLSI accelerators.
+- 🎮 **Systems Architect** - Developed a high-performance **C++17/OpenGL** Game Engine & **Verilog** VLSI AI accelerators.
 - 🤖 **Agentic AI Specialist** - Researching **Multimodal Evaluation** (GSoC 2026) and building autonomous agents with **LangGraph**.
 - 🏆 **1st Place** - [ODC x INSTANT AI Hackathon](https://github.com/KarimmYasser/braTs-ai-hackathon-ODCxINSTANT) (Brain Tumor Segmentation).
 - 🏆 **1st Place** - [I'SUPPLY Hackathon](https://github.com/KarimmYasser/isupply_app) (30+ teams), earning a full-time offer.
